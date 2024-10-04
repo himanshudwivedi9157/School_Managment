@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# Other specific folders to ignore
+frontend/some-folder-to-ignore/
+backend/some-other-folder-to-ignore/
